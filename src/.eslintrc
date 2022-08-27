@@ -22,7 +22,11 @@
     "react/no-danger": [0],
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
+    // "react/function-component-definition": "disable",
+    "react/function-component-definition": "disable",
     // eslint-disable-next-line no-console
-    "no-console": [0]
+    "no-console": [0],
+    "arrow-body-style": [0],
+    "prefer-arrow-callback": [0]
   }
 }
