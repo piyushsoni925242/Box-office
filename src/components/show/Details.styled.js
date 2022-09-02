@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const diggi = styled.div`
+export const Diggi = styled.div`
   p {
     margin: 5px 0;
 
